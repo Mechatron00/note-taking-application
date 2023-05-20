@@ -3,12 +3,12 @@
 # Author: Dinesh Dixit
 
 ### Flowchart:
-<img height="640" src="C:\Users\dixit\IdeaProjects\note-taking-application\note-taking-application.png" width="1280"/><br>
+<img height="640" src="note-taking-application.png" width="1280"/><br>
 ### Diagram:
-<img height="720" src="C:\Users\dixit\IdeaProjects\note-taking-application\diagram.png" width="1280"/><br>
+<img height="720" src="diagram.png" width="1280"/><br>
 
 ### Endpoints:
-<img height="720" src="C:\Users\dixit\IdeaProjects\note-taking-application\notetTakingEndpoints.png" width="1280"/><br>
+<img height="720" src="notetTakingEndpoints.png" width="1280"/><br>
 
 
 Working Methods:                                                               
